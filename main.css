@@ -15,6 +15,10 @@ section h2{
     font-family: 'Bungee', cursive;
 }
 
+header h1{
+    font-weight: normal;
+}
+
 body{
     font-family: 'Roboto', sans-serif;
 }
