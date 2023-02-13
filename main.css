@@ -15,7 +15,8 @@ section h2{
     font-family: 'Bungee', cursive;
 }
 
-header h1{
+header h1,
+section h2{
     font-weight: normal;
 }
 
