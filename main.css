@@ -10,6 +10,15 @@ header {
     color: #ecf0f1;
 }
 
+header,
+section h2{
+    font-family: 'Bungee', cursive;
+}
+
+body{
+    font-family: 'Roboto', sans-serif;
+}
+
 header nav li {
     display: inline;
     margin-left: 16px;
